@@ -8,7 +8,7 @@ My core research projects are currently under **double-blind review** at top-tie
 
 You can find the anonymous code links provided to the reviewers below:
 
-* 📊 **DAF-MoE (KDD 2026 Under Review):** [https://anonymous.4open.science/anonymize/DAF-MoE-1EF0]
+* 📊 **DAF-MoE (KDD 2026 Under Review):** [https://anonymous.4open.science/r/DAF-MoE-1EF0/]
 * 🔬 **MEXCLIP (ECCV 2026 Under Review):** [https://anonymous.4open.science/r/MEXCLIP-0E1D]
 
 *The official codes will be fully open-sourced upon acceptance.*
